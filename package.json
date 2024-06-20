@@ -1,0 +1,28 @@
+{
+  "name": "effexor",
+  "version": "0.0.0",
+  "description": "effexor is possibly the most lightweight front-end framework on the planet that allows you to create reactive components",
+  "main": "index.js",
+  "types": "types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rettfram/effexor.git"
+  },
+  "keywords": [
+    "ui",
+    "front-end",
+    "framework",
+    "components",
+    "reactive",
+    "state"
+  ],
+  "author": "C.A. Walczak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rettfram/effexor/issues"
+  },
+  "homepage": "https://github.com/rettfram/effexor#readme"
+}
